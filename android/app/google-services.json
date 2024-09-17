@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809130676815",
+    "firebase_url": "https://tester-3bddf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tester-3bddf",
+    "storage_bucket": "tester-3bddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809130676815:android:d55afc110781b2d3c7903a",
+        "android_client_info": {
+          "package_name": "com.wheat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809130676815-vto97hrri37jbptgbo3gnpil4emsrapt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbe_e6TOgtpYI46a1AAKAnfwhtX7etXGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809130676815-vto97hrri37jbptgbo3gnpil4emsrapt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
